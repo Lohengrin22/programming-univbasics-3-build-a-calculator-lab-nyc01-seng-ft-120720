@@ -11,11 +11,12 @@ def division(num1, num2)
 end
 
 def multiplication(num1, num2)
-
+sum_mul = num1 * num2
 end
 
 def modulo(num1, num2)
-summod = 
+summod = num1 % num2
+summod
 end
 
 def square_root(num)
