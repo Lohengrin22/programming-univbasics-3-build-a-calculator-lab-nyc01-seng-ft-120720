@@ -15,7 +15,7 @@ def multiplication(num1, num2)
 end
 
 def modulo(num1, num2)
-
+summod = Math.mo
 end
 
 def square_root(num)
